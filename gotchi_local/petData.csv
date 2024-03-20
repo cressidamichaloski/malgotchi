@@ -1,0 +1,6 @@
+0,petName,String,mimi
+1,lastFed,long,1710783020934
+2,batteries,int,0
+3,happinessChange,double,5.0
+4,timesFed,int,0
+5,gameName,AbstractGame,LeftRightGame
